@@ -1,6 +1,6 @@
 # GitHubWorkshop
 GitHub training
 
-#Premier test
+# Premier test
 
 test
